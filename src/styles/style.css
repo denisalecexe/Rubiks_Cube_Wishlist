@@ -1,0 +1,18 @@
+/* VARIABILI CSS */
+
+
+/* UNIVERSAL TAG */
+* {
+    cursor: url('../assets/cursor/rubik_cursor.cur'), auto;
+}
+
+/* TAG ELEMENT */
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* ID ELEMENT */
+
+
+/* CLASS ELEMENT */
